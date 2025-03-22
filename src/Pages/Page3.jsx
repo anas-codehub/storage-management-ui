@@ -9,7 +9,7 @@ export default function Page3() {
   return (
     <div className="flex flex-col justify-center items-center h-screen bg-gray-100">
       {/* Heading inside width */}
-      <div className="w-[260px] mb-5">
+      <div className="w-[270px] mb-5">
         <h1 className="text-[24px] font-semibold text-center">
           Create Your Account
         </h1>
